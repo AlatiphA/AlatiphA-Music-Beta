@@ -1,5 +1,5 @@
-const CACHE_NAME = "alatipha-music-v3";
-const SONG_CACHE = "alatipha-songs-v1";
+const CACHE_NAME = "alatipha-music-beta-v1";
+const SONG_CACHE = "alatipha-songs-beta-v1";
 
 /* ====================
    APP SHELL
