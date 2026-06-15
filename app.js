@@ -320,7 +320,10 @@ lastVolume: parseFloat(localStorage.getItem("volume")) || 1,
   nextBufferAudio: new Audio()
 };
 
-const DURATION_KEY = "alatipha_durations_v2";
+
+/* ====== DURATION_KEY - Change if songs change ====== */
+
+const DURATION_KEY = "alatiphy_beta_durations_v1";
 
 try {
   const cached = JSON.parse(localStorage.getItem(DURATION_KEY));
@@ -1182,7 +1185,7 @@ async function renderDownloads() {
   
 
 /* =========================
-   ABOUT
+   ***** ABOUT *****
 ========================= */
 
 function showAbout() {
@@ -1191,7 +1194,7 @@ function showAbout() {
     <div style="padding:15px; line-height:1.6;">
       <h3>Alatiphy - AlatiphA Music</h3>
       <p>With AlatiphA, it’s easy to listen to tailored online and offline music on your phone, your computer, your tablet and more.</p>
-      <p>Version: v2.1</p>
+      <p>Version: v2.5</p>
     </div>
   `;
 }
