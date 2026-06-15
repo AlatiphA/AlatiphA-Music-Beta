@@ -2,21 +2,18 @@
    Alatiphy — Service Worker
    ─────────────────────────────────────────────────
    HOW TO UPDATE:
-   Bump APP_VERSION on every release (e.g. "1.0.1").
+   Bump APP_VERSION on every release (e.g. "1.0").
    The cache name updates automatically. Users will
    get a "New version available" prompt on next visit.
 ===================================================== */
 
-const APP_VERSION = "v2.3";
+const APP_VERSION = "v2.5";
 const SONG_CACHE = "v1.0";
 
 const SONG_CACHE = `alatipha-music-beta-${APP_VERSION}`;
 const SONG_CACHE = `alatipha-songs-beta-${SONG_CACHE}`;
 
-/*
-const CACHE_NAME = "alatipha-music-beta-v9";
-const SONG_CACHE = "alatipha-songs-beta-v1";
-*/
+
 
 /* ====================
    APP SHELL
