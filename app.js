@@ -1219,8 +1219,9 @@ function showAbout() {
   DOM.list.innerHTML = `
     <div style="padding:15px; line-height:1.6;">
       <h3>Alatiphy - AlatiphA Music</h3>
-      <p>With AlatiphA, it’s easy to listen to tailored online and offline music on your phone, your computer, your tablet and more.</p>
-      <p>A progressive web app (PWA) music player for streaming and offline listening to AlatiphA's original tracks</p>
+
+      <p>Alatiphy is a progressive web app (PWA) music player for streaming and offline listening to AlatiphA's original tracks.</p>
+      <p>With Alatiphy, it’s easy to listen to tailored online and offline music on your phone, your computer, your tablet and many more devices.</p>
     </div>
   `;
 }
