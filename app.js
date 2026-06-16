@@ -284,7 +284,32 @@ const songs = [
    title: "Built on Pillars (Remix) - AlatiphA", 
    src: "https://archive.org/download/built-on-pillars-alatiph-a/Built%20on%20Pillars%20%28Remix%29%20-%20AlatiphA.mp3", 
    tags: ["remix", "recentlyadded"]
+}, 
+
+{ 
+   title: "Republic of Dumsor - AlatiphA", 
+   src: "https://archive.org/download/beyond-the-headlines-nyaba-diaries-alatiph-a_202606/Republic%20of%20Dumsor%20-%20AlatiphA.mp3", 
+   tags: ["rap", "recentlyadded"]
+},
+
+{ 
+   title: "Watered Down - AlatiphA", 
+   src: "https://archive.org/download/beyond-the-headlines-nyaba-diaries-alatiph-a_202606/Watered%20Down%20-%20AlatiphA.mp3", 
+   tags: ["rap", "recentlyadded"]
+},
+
+{ 
+   title: "Scam season - AlatiphA", 
+   src: "https://archive.org/download/beyond-the-headlines-nyaba-diaries-alatiph-a_202606/Scam%20season%20-%20AlatiphA.mp3", 
+   tags: ["rap", "recentlyadded"]
+},
+
+{ 
+   title: "Unholy Alliance - AlatiphA", 
+   src: "https://archive.org/download/beyond-the-headlines-nyaba-diaries-alatiph-a_202606/Unholy%20Alliance%20-%20AlatiphA.mp3", 
+   tags: ["rap", "recentlyadded"]
 }
+
   ];
 
 
