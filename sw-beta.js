@@ -7,11 +7,11 @@
    get a "New version available" prompt on next visit.
 ===================================================== */
 
-const APP_VERSION = "v2.9";
+const APP_VERSION = "v2.90";
 const SONG_CACHE = "v1.0";
 
-const SONG_CACHE = `alatipha-music-beta-${APP_VERSION}`;
-const SONG_CACHE = `alatipha-songs-beta-${SONG_CACHE}`;
+const SONG_CACHE = `alatiphy-music-beta-${APP_VERSION}`;
+const SONG_CACHE = `alatiphy-songs-beta-${SONG_CACHE}`;
 
 
 
@@ -22,7 +22,7 @@ const ASSETS = [
   "./",
   "./index.html",
   "./style.css",
-  "./manifest.json",
+  "./manifest-beta.json",
   "./icon-192.png",
   "./icon-512.png",
   "./css/all.min.css"
