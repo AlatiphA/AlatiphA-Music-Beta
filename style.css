@@ -634,7 +634,6 @@ box-shadow:
   }
 
   /* MENU */
-  /* MENU */
 .menu-popup {
   position: absolute;
   bottom: 80px;
@@ -672,7 +671,7 @@ box-shadow:
 
   /* MOBILE */
   @media (max-width: 680px) {
-    .app { padding-bottom: 245px; }
+    .app { padding-bottom: 250px; }
     .app.mini-player { padding-bottom: 90px; }
     #search { font-size: 14.5px; }
     .song img { width: 32px; height: 32px; }
