@@ -9,7 +9,7 @@ importScripts("https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js");
    get a "New version available" prompt on next visit.
 ===================================================== */
 
-const APP_VERSION = "v4.0";
+const APP_VERSION = "v4.1";
 const SONG_CACHE = "v1.0";
 
 const SONG_CACHE = `alatiphy-music-beta-${APP_VERSION}`;
