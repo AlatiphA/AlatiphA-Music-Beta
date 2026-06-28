@@ -1322,6 +1322,12 @@ function showAbout() {
 
       <p>Alatiphy is a progressive web app (PWA) music player for streaming and offline listening to AlatiphA's original tracks.</p>
       <p>With Alatiphy, it’s easy to listen to tailored online and offline music on your phone, your computer, your tablet and many more devices.</p>
+      
+      <p>Alatiphy is a progressive web app (PWA) music player for streaming and offline listening to AlatiphA's original tracks.</p>
+      <p>With Alatiphy, it’s easy to listen to tailored online and offline music on your phone, your computer, your tablet and many more devices.</p>
+      
+      <p>Alatiphy is a progressive web app (PWA) music player for streaming and offline listening to AlatiphA's original tracks.</p>
+      <p>With Alatiphy, it’s easy to listen to tailored online and offline music on your phone, your computer, your tablet and many more devices.</p>
     </div>
   `;
 }
